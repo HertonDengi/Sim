@@ -1,0 +1,11 @@
+object Form2: TForm2
+  Left = -8
+  Height = 1009
+  Top = -8
+  Width = 1920
+  BorderStyle = bsNone
+  Caption = 'Регистрация'
+  FormStyle = fsStayOnTop
+  LCLVersion = '2.2.2.0'
+  WindowState = wsMaximized
+end
